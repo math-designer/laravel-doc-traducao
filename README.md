@@ -1,0 +1,1 @@
+Tradução Documentação Laravel
